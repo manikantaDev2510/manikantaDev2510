@@ -1,21 +1,31 @@
-# 💫 About Me:
-I am currently learning FullStack Development
+<h1 align="center">👋 Hi, I'm Your Name!</h1>
+<p align="center">
+  <a href="https://yourwebsite.com">Website</a> •
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="https://twitter.com/yourhandle">Twitter</a>
+</p>
 
+## 🚀 About Me:
+- 🎓 I'm a Full Stack Developer learning new technologies.
+- 🌱 Currently learning **React, Node.js, MongoDB**.
+- 💡 Interested in **Web3, AI, and Open Source**.
+- 📫 Contact me: `your.email@example.com`
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manikanta_2_5_1_0_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/veeramanikanta-chollangi-96b2531a9/) 
+## 🛠️ Technologies & Tools:
+- **Languages:** JavaScript, Python, C++, Java
+- **Frontend:** React, Next.js, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, Postman, VS Code, Docker
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= manikantaDev2510&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user= manikantaDev2510&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= manikantaDev2510&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" height="150">
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🔥 GitHub Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github-dark">
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id= manikantaDev2510&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ **Show some love by starring my repositories!**
