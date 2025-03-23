@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Your Name!</h1>
+<h1 align="center">👋 Hello I am Manikanta</h1>
 <p align="center">
   <a href="https://yourwebsite.com">Website</a> •
   <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
