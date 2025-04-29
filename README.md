@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello, I'm Manikanta!</h1>
 
 <p align="center">
-  <a href="https://portfolio-omega-weld-40.vercel.app/"><b>🌐 Portfolio</b></a> •
-  <a href="https://www.linkedin.com/in/veeramanikanta-chollangi-96b2531a9/?trk=PROFILE_DROP_DOWN"><b>🔗 LinkedIn</b></a>
+  <a href="https://portfolio-omega-weld-40.vercel.app"><b>🌐 Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/manikanta-chollangi"><b>🔗 LinkedIn</b></a>
 </p>
 
 ---
